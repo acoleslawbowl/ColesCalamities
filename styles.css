@@ -35,6 +35,7 @@ h4 {
     font-size: 20px;
     font-weight: normal;
     color: #666;
+    text-align: center;
 }
 h5 {
     text-align: center;
@@ -341,4 +342,14 @@ select {
     font-size: 50px;
 
     cursor: pointer;
+}
+#homeButton {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+#poem {
+    text-align: center;
+    margin-top: 20px;
 }
