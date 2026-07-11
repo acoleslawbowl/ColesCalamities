@@ -1,0 +1,9 @@
+This is just a reminder for me for the code to update lol
+
+git status
+
+git add .
+
+git commit -m "Update text"
+
+git push
