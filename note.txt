@@ -1,5 +1,9 @@
 This is just a reminder for me for the code to update lol
 
+cd ~/Websitedih
+
+(only if needed) git remote set-url origin https://github.com/thecoleslaw/ColesCalamities.git
+
 git status
 
 git add .
