@@ -18,6 +18,12 @@ const poems = [
         title: "Stuffed Animals",
         date: new Date("2026-7-9"),
         link: "poems/Stuffed_Animals.html"
+    },
+
+     {
+        title: "Puppet",
+        date: new Date("2026-7-25"),
+        link: "poems/Puppet.html"
     }
 ];
 const poemList = document.getElementById("poemList");
