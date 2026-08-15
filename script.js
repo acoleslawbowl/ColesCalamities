@@ -24,7 +24,13 @@ const poems = [
         title: "Puppet",
         date: new Date("2026-7-25"),
         link: "poems/Puppet.html"
+    },
+    {
+        title: "Wisteria Tinted Sunglasses",
+        date: new Date("2026-8-12"),
+        link: "poems/Wisteria.html"
     }
+
 ];
 const poemList = document.getElementById("poemList");
 
