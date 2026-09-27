@@ -29,6 +29,11 @@ const poems = [
         title: "Wisteria Tinted Sunglasses",
         date: new Date("2026-8-12"),
         link: "poems/Wisteria.html"
+    },
+    {
+        title: "love note",
+        date: new Date("2026-9-27"),
+        link: "poems/love_note.html"
     }
 
 ];

@@ -12,3 +12,5 @@ git add .
 git commit -m "Update text"
 
 git push
+
+shortcut to save all - ctrl + k then s
