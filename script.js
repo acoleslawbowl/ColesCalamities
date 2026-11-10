@@ -38,7 +38,7 @@ const poems = [
     {
         title: "I drew a picture of the weather",
         date: new Date("2026-11-9"),
-        link: "poems/I_drew_a_picture_of_the_weather.html"
+        link: "poems/I_drew_a_picture.html"
     }
 
 ];
